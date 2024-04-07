@@ -1,4 +1,7 @@
 ### Hi there 👋
+Hi, my name is Alexandra and I am currently studying Computer Science at Babeș-Bolyai University in Cluj-Napoca.
+
+###My personal projects
 
 <!--
 **Alexandra7a/Alexandra7a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
