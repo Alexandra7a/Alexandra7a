@@ -24,5 +24,5 @@
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 </p>
 <h3>My projects: </h3>
-<p> See down below what I have been working at as well as some in-progress repositories</p>
+<p> See down below what I have been working at and some in-progress repositories as well</p>
 <img  width="100" height="110" src="https://www.svgrepo.com/show/493332/female-programmer-upper-body.svg"/>
