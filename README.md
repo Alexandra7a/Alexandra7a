@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alexandra</h1>
+<h1>Hi👋🏼, I'm Alexandra</h1>
 <h3 >I am currently studying Computer Science at Babeș-Bolyai University in Cluj-Napoca.</h3>
 
 - 📫 How to reach me **alexandra.toth1433@gmail.com**
 - 🌐 How to connect with me **https://linkedin.com/in/www.linkedin.com/in/alexandra-melania-toth-706591285**
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Some of the technologies used: </h3>
 <p align="left" style="background-color: white;"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
