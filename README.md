@@ -1,5 +1,7 @@
 <h1>Hi👋🏼, I'm Alexandra</h1>
-<h3 >I am currently studying Computer Science at Babeș-Bolyai University in Cluj-Napoca.</h3>
+<h3 >I am currently studying Computer Science at Babeș-Bolyai University in Cluj-Napoca. I am a passionate person and I put effort and time in programming and evolving.🌻
+</h3>
+
 
 - 📫 How to reach me **alexandra.toth1433@gmail.com**
 - 🌐 How to connect with me **https://linkedin.com/in/www.linkedin.com/in/alexandra-melania-toth-706591285**
@@ -22,5 +24,5 @@
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 </p>
 <h3>My projects: </h3>
-<p> See down below what I have been working at and some <strong>in-progress</strong> repositories</p>
+<p> See down below what I have been working at as well as some in-progress repositories</p>
 <img  width="100" height="110" src="https://www.svgrepo.com/show/493332/female-programmer-upper-body.svg"/>
