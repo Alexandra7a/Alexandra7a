@@ -7,8 +7,10 @@
 
 
 
-<h2>💻 My projects and University Projects</h2>
+<h2> My projects and University Projects</h2>
 <p> See down below what I have been working at and some in-progress repositories as well.</p>
+<img  width="100" height="110" src="https://www.svgrepo.com/show/493332/female-programmer-upper-body.svg"/>
+
 <h3>JAVA</h3>
 <ul>
  <li> <a href="gh repo clone Alexandra7a/TourismAgency">Client-Server Tourism Agency Application</a></li>
@@ -33,7 +35,6 @@
 </ul>
 
 
-<img  width="100" height="110" src="https://www.svgrepo.com/show/493332/female-programmer-upper-body.svg"/>
 <h2 align="left">Some of the technologies used: </h2>
 <p align="left" style="background-color: white;"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
