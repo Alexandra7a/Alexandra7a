@@ -37,4 +37,16 @@
  <li> <a href="gh repo clone Alexandra7a/FlyAway">Flight Management Application</a></li>
 </ul>
 
+<h3>C#</h3>
+<ul>
+ <li> <a href="gh repo clone Alexandra7a/NightmareFactory_">A 2D puzzle game in Unity</a></li>
+ <li> <a href="gh repo clone Alexandra7a/Dedeman">Construction Shop with Windows Form </a></li>
+</ul>
+
+<h3>HTML/CSS</h3>
+<ul>
+ <li> <a href="gh repo clone Alexandra7a/MyYouTube">My YouTube page</a></li>
+</ul>
+
+
 <img  width="100" height="110" src="https://www.svgrepo.com/show/493332/female-programmer-upper-body.svg"/>
