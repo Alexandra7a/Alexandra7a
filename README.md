@@ -1,13 +1,14 @@
 <h1>Hi👋🏼, my name is Alexandra</h1>
-<h3 >I am currently studying Computer Science at Babeș-Bolyai University in Cluj-Napoca. I am a passionate person and I put effort and time in programming and enhancing my skills. 🌻
-</h3>
+<h2 >I am currently studying Computer Science at Babeș-Bolyai University in Cluj-Napoca. I am a passionate person and I put effort and time in programming and enhancing my skills. 🌻
+</h2>
 
+## dhshs
 
 - 📫 How to reach me **alexandra.toth1433@gmail.com**
 - 🌐 How to connect with me **https://linkedin.com/in/www.linkedin.com/in/alexandra-melania-toth-706591285**
 
 
-<h3 align="left">Some of the technologies used: </h3>
+<h2 align="left">Some of the technologies used: </h2>
 <p align="left" style="background-color: white;"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -28,6 +29,12 @@
 <br>
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 </p>
-<h3>My projects: </h3>
+<h2>💻 My projects and University Projects</h2>
 <p> See down below what I have been working at and some in-progress repositories as well.</p>
+<h3>JAVA</h3>
+<ul>
+ <li> <a href="gh repo clone Alexandra7a/TourismAgency">Client-Server Tourism Agency Application</a></li>
+ <li> <a href="gh repo clone Alexandra7a/FlyAway">Flight Management Application</a></li>
+</ul>
+
 <img  width="100" height="110" src="https://www.svgrepo.com/show/493332/female-programmer-upper-body.svg"/>
