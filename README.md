@@ -29,6 +29,7 @@
 <br>
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 </p>
+
 <h2>💻 My projects and University Projects</h2>
 <p> See down below what I have been working at and some in-progress repositories as well.</p>
 <h3>JAVA</h3>
@@ -46,6 +47,12 @@
 <h3>HTML/CSS</h3>
 <ul>
  <li> <a href="gh repo clone Alexandra7a/MyYouTube">My YouTube page</a></li>
+</ul>
+
+
+<h3>Python</h3>
+<ul>
+ <li> <a href="gh repo clone Alexandra7a/Songs">A minimal song management project</a></li>
 </ul>
 
 
