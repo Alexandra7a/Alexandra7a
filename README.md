@@ -8,25 +8,25 @@
 <p> See down below what I have been working at and some in-progress repositories as well.</p>
 <h3>JAVA</h3>
 <ul>
- <li> <a href="gh repo clone Alexandra7a/TourismAgency">Client-Server Tourism Agency Application</a></li>
- <li> <a href="gh repo clone Alexandra7a/FlyAway">Flight Management Application</a></li>
+ <li> <a href="https://github.com/Alexandra7a/TourismAgency.git">Client-Server Tourism Agency Application</a></li>
+ <li> <a href="https://github.com/Alexandra7a/FlyAway.git">Flight Management Application</a></li>
 </ul>
 
 <h3>C#</h3>
 <ul>
- <li> <a href="gh repo clone Alexandra7a/NightmareFactory_">A 2D puzzle game in Unity</a></li>
- <li> <a href="gh repo clone Alexandra7a/Dedeman">Construction Shop with Windows Form </a></li>
+ <li> <a href="https://github.com/Alexandra7a/NightmareFactory_.git">A 2D puzzle game in Unity</a></li>
+ <li> <a href="https://github.com/Alexandra7a/Dedeman.git">Construction Shop with Windows Form </a></li>
 </ul>
 
 <h3>HTML/CSS</h3>
 <ul>
- <li> <a href="gh repo clone Alexandra7a/MyYouTube">My YouTube page</a></li>
+ <li> <a href="https://github.com/Alexandra7a/MyYouTube.git">My YouTube page</a></li>
 </ul>
 
 
 <h3>Python</h3>
 <ul>
- <li> <a href="gh repo clone Alexandra7a/Songs">A minimal song management project</a></li>
+ <li> <a href="https://github.com/Alexandra7a/Songs.git">A minimal song management project</a></li>
 </ul>
 
 
