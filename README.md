@@ -3,9 +3,6 @@
 </h2>
 
 - 📫 How to reach me **alexandra.toth1433@gmail.com**
-- 🌐 How to connect with me **https://linkedin.com/in/www.linkedin.com/in/alexandra-melania-toth-706591285**
-
-
 
 <h2>💻 My projects and University Projects</h2>
 <p> See down below what I have been working at and some in-progress repositories as well.</p>
