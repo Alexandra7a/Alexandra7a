@@ -10,6 +10,7 @@
 <ul>
  <li> <a href="https://github.com/Alexandra7a/TourismAgency.git">Client-Server Tourism Agency Application</a></li>
  <li> <a href="https://github.com/Alexandra7a/FlyAway.git">Flight Management Application</a></li>
+ <li> <a href="https://github.com/Alexandra7a/SocialNetwork.git">Message Exchange Social Network Application</a></li>
 </ul>
 
 <h3>C#</h3>
