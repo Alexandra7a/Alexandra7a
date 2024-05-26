@@ -8,7 +8,7 @@
 <p> See down below what I have been working at and some in-progress repositories as well.</p>
 <h3>JAVA</h3>
 <ul>
- <li> <a href="https://github.com/Alexandra7a/TourismAgency.git">Client-Server Tourism Agency Application</a></li>
+ <li> <a href="https://github.com/Alexandra7a/TourismAgencyJava.git">Client-Server Tourism Agency Application</a></li>
  <li> <a href="https://github.com/Alexandra7a/FlyAway.git">Flight Management Application</a></li>
  <li> <a href="https://github.com/Alexandra7a/SocialNetwork.git">Message Exchange Social Network Application</a></li>
 </ul>
