@@ -6,6 +6,11 @@
 
 <h2>💻 My projects and University Projects</h2>
 <p> See down below what I have been working at and some in-progress repositories as well.</p>
+
+<h3>Artificiall Intelligence and Machine Learning</h3>
+<ul>
+ <li><a href="https://github.com/Alexandra7a/fuzzyminds.git">Client-Server Tourism Agency Application in Java</a></li>
+</ul>
 <h3>JAVA</h3>
 <ul>
  <li> <a href="https://github.com/Alexandra7a/TourismAgencyJava.git">Client-Server Tourism Agency Application in Java</a></li>
