@@ -9,7 +9,7 @@
 
 <h3>Artificiall Intelligence and Machine Learning</h3>
 <ul>
- <li><a href="https://github.com/Alexandra7a/fuzzyminds.git">Client-Server Tourism Agency Application in Java</a></li>
+ <li><a href="https://github.com/Alexandra7a/fuzzyminds.git">Depression and Anxiety Detection </a></li>
 </ul>
 <h3>JAVA</h3>
 <ul>
