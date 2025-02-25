@@ -11,6 +11,10 @@
 <ul>
  <li><a href="https://github.com/Alexandra7a/fuzzyminds.git">Depression and Anxiety Detection </a></li>
 </ul>
+<h3>UML</h3>
+<ul>
+ <li><a href="https://github.com/Alexandra7a/BugTrackerApp">Bug Tracking Application in Java with UML Diagrams organization</a></li>
+</ul>
 <h3>JAVA</h3>
 <ul>
  <li> <a href="https://github.com/Alexandra7a/TourismAgencyJava.git">Client-Server Tourism Agency Application in Java</a></li>
