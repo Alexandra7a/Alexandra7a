@@ -31,12 +31,12 @@
 
 </ul>
 
-
+<!--
 <h3>Python</h3>
 <ul>
  <li> <a href="https://github.com/Alexandra7a/Songs.git">A minimal song management project</a></li>
 </ul>
-
+-->
 
 <h2 align="left">Some of the technologies used: </h2>
 <p align="left" style="background-color: white;"> 
