@@ -1,5 +1,5 @@
 <h1>Hi👋🏼, my name is Alexandra</h1>
-<h2 >I am currently studying Computer Science at Babeș-Bolyai University in Cluj-Napoca. I am a passionate person and I put effort and time in programming and enhancing my skills. 🌻
+<h2 >I am currently studying Cybersecurity at Babeș-Bolyai University in Cluj-Napoca. I am a passionate person and I put effort and time in programming and enhancing my skills. 🌻
 </h2>
 
 - 📫 How to reach me **alexandra.toth1433@gmail.com**
